@@ -1,5 +1,6 @@
 # Chat-Bot-using-gpt-3.5-turbo
 build a chatbot using the OpenAI's Chat GPT API "gpt-3.5-turbo" and Flasks Server. 
+If you have access and keys fot gpt-4 you can add "gpt-4"
 
 ## Requirements
 
@@ -22,23 +23,10 @@ To get started using this application, please follow the steps below:
 
 Once the application is running, you can use it to generate text based on a prompt that you provide. Simply enter a prompt and the application will use OpenAI's API to generate a response. 
 
-## Contributions
-
-We welcome contributions to this repository. If you have any improvements or suggestions, please feel free to create a pull request.
-
-## License
-
-This repository is licensed under the MIT License. Please see the `LICENSE` file for more information.
-
 
 ## Note: 
-i used chat gpt to generate all the code.
+I used chat gpt to generate all the code.
 for the front end side, you can write code as per your need to make it look different.
 
 
-## Demo
-
-Check out this demo video to see the chatbot in action:
-
-[![Demo video](https://img.youtube.com/vi/etTE-mjLiTw/0.jpg)](https://www.youtube.com/watch?v=etTE-mjLiTw)
 
